@@ -3,10 +3,11 @@ Maxwell Wang submission from TESLA STEM High School for FBLA State 2017-18, Codi
 Programmed in Eclipse WindowBuilder with Java Swing, Runs in JRE 7/ version 1.7.0_80
 (Java 7)
 
-To run, download the Runnable JAR file, FBLACodingAndProgrammingSubmissionMW.jar
-Another way to run is to download the project classes to an IDE like Eclipse/IntelliJ, and run the class TSHSLibrary.java, and the program should appear.
+To run, download the Runnable JAR file, FBLACodingAndProgrammingSubmissionMW.jar.
+This file will likely end up in the downloads folder, and so will TSHSLibrarydata.ser (unless you move the .jar before running it)
 The application will create a text file: Do not delete the TSHSLibrarydata.ser file, or the data stored in the database will be reset. Do not modify its filepath.
-
+Another backup way to run is to download the project classes to an IDE like Eclipse/IntelliJ, and run the class TSHSLibrary.java, and the program should appear. All files are included.
+Text documents show notes about developing the application.
 
 Requirements
 
