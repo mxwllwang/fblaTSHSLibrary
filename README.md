@@ -7,7 +7,7 @@ To run
 
 
 Another way to run is to download the project to an IDE like Eclipse/IntelliJ, and run the class TSHSLibrary.java, and the program should appear.
-Do not delete the TSHSLibraryData.ser file, or the data stored in the database will be reset. Do not modify its filepath.
+Do not delete the TSHSLibrarydata.ser file, or the data stored in the database will be reset. Do not modify its filepath.
 
 
 
