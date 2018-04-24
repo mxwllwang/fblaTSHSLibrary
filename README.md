@@ -1,4 +1,4 @@
-# fblaTSHSLibrary
+# fblaTSHSLibrary (STATE)
 Maxwell Wang submission from TESLA STEM High School for FBLA State 2017-18, Coding and Programming
 Programmed in Eclipse WindowBuilder with Java Swing, Runs in JRE 7/ version 1.7.0_80
 (Java 7)
